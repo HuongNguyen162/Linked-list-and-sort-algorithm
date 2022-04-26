@@ -1,0 +1,64 @@
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.exe
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.deps.json
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.runtimeconfig.json
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.runtimeconfig.dev.json
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.dll
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\bin\Debug\net5.0\ref\ktr1-ctdlvagt.dll
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.pdb
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.AssemblyInfo.cs
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.dll
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\obj\Debug\net5.0\ref\ktr1-ctdlvagt.dll
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.pdb
+C:\Users\THINKPAD\source\repos\ktr1-ctdlvagt\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.genruntimeconfig.cache
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.exe
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.deps.json
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.runtimeconfig.json
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.runtimeconfig.dev.json
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.dll
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ref\ktr1-ctdlvagt.dll
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.pdb
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.csproj.AssemblyReference.cache
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.AssemblyInfoInputs.cache
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.AssemblyInfo.cs
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.dll
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ref\ktr1-ctdlvagt.dll
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.pdb
+C:\Users\AD\Desktop\New folder\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.genruntimeconfig.cache
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.exe
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.deps.json
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.runtimeconfig.json
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.runtimeconfig.dev.json
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.dll
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ref\ktr1-ctdlvagt.dll
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.pdb
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.csproj.AssemblyReference.cache
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.AssemblyInfoInputs.cache
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.AssemblyInfo.cs
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.dll
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ref\ktr1-ctdlvagt.dll
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.pdb
+C:\Users\AD\Desktop\CTDL&GT\c#\KT1ctdlvst\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.genruntimeconfig.cache
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.exe
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.deps.json
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.runtimeconfig.json
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.runtimeconfig.dev.json
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.dll
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ref\ktr1-ctdlvagt.dll
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\bin\Debug\net5.0\ktr1-ctdlvagt.pdb
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.AssemblyInfoInputs.cache
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.AssemblyInfo.cs
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.dll
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ref\ktr1-ctdlvagt.dll
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.pdb
+C:\Users\THINKPAD\Documents\KT1ctdlvst\ktr1-ctdlvagt\obj\Debug\net5.0\ktr1-ctdlvagt.genruntimeconfig.cache

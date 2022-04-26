@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ktr1-ctdlvagt/1.0.0": {
+        "runtime": {
+          "ktr1-ctdlvagt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ktr1-ctdlvagt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
